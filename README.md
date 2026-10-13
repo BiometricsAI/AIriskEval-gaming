@@ -1,3 +1,3 @@
 # AIriskEval-gaming
 
-Paper under review
+Paper under review.
