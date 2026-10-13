@@ -38,9 +38,6 @@ The following table simplifies Table I of [1].
 |:--:|
 | Platform and dataset overview, reproduced from [1]. EEG is shown as a platform modality but was not recorded in this release. |
 
-![Overview of the AIriskEval-gaming platform, acquisition modes, games and dataset](img/figure1-platform.png)
-
-*Figure 1. Platform and dataset overview, reproduced from [1]. EEG is shown as a platform modality but was not recorded in this release.*
 
 ### Stage 1 - Define psychological profiles and game interactions
 
