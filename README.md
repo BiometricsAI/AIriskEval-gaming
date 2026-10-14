@@ -70,7 +70,7 @@ The paper describes game decisions, written justifications, perceived counterpar
 
 ## Instructions for Downloading AIriskEval-gaming-db
 
-To request access, contact the paper's corresponding author at **[roberto.daza@uam.es](mailto:roberto.daza@uam.es)** with:
+To request access, contact the paper's corresponding author at **[atvs@uam.es](mailto:atvs@uam.es)** with:
 
 - **Subject:** `[DATABASE: AIriskEval-gaming-db]`
 - **Body:** Your name, institution, contact details and intended use of the database.
